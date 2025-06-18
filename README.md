@@ -31,7 +31,7 @@ To set up MediScan Pro locally, follow the steps below:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Karanchaudhary350/MediScan Pro
+git clone https://github.com/Swaroop2809/MediScan Pro
 ```
 2. Create a conda environment and install the required libraries:
 
@@ -73,4 +73,4 @@ MediScan Pro is released under the MIT License. Feel free to use, modify, and di
 MediScan Pro is an experimental project and should not be used as a substitute for professional medical advice or diagnosis. Always consult a qualified healthcare provider for accurate medical information and diagnosis.
 
 ## Contact
-For any questions or feedback, please contact us at karanchaudhary2288@gmail.com.
+For any questions or feedback, please contact us at Swaroop.h28@gmail.com.
